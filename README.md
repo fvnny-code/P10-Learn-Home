@@ -21,7 +21,7 @@ Maquettes de l'application, comprenant les pages suivantes :
 
 - [Les maquettes du site version desktop et mobile](https://www.figma.com/design/BORFtfjKKGzC7XCgCMvIFV/Learn%40Home--1?node-id=0-1&t=n0TXCzFkeOzYVI00-1),
  
-- Les diagrammes du cas d'usage.
+- [Les diagrammes du cas d'usage](https://github.com/fvnny-code/P10-Learn-Home/blob/main/Cas%20d'usage/diagramme_cas_usage.pdf)
 
 ## Compétences évaluées
 - [x] Contribuer à un projet web en mode Agile,
